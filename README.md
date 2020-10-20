@@ -1,4 +1,4 @@
-# Anaiza-podatkov-programiranje1
+# Analiza-podatkov-programiranje1
 Repozitorji za projekt pri programrinaju 1 
 
 <h2>Škotski viski</h2>
